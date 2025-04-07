@@ -1,10 +1,12 @@
 <div id="header" align="center">
 <h1>Hi there 👋</h1>
 </div>
-<div>
+
+<div id="socials" align="center">
   <a href="#">Linkedin</a>
   <a href="https://t.me/Akamorii">Telegram</a>
 </div>
+
 
 - i'm beginner fullstack developer
 - my [telegram](https://t.me/Akamorii)
