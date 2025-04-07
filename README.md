@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<div id="header" align="center">
+<h1>Hi there 👋</h1>
+</div>
 - i'm beginner fullstack developer
 - my [telegram](https://t.me/Akamorii)
 
