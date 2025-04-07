@@ -51,6 +51,6 @@ I do my own projects, and I'm also trying to develop a little in computer scienc
   
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/3e/9e/eb/3e9eeb4b949bf10f7df922d78360739a.jpg" width="500" style="border-radius:20px"/>
+  <img src="https://i.pinimg.com/1200x/a1/36/4a/a1364a778769583350f163d5089c4a4f.jpg" width="500" style="border-radius:20px"/>
 </div>
 
