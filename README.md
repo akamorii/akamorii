@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - i'm beginner fullstack developer
-- my telegram [https://t.me/Akamorii]
+- my [telegram](https://t.me/Akamorii)
 
 <!--
 **akamorii/akamorii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
