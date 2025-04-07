@@ -1,9 +1,3 @@
-<styel>
-a {
-background-color: blue;
-  }
-</styel>
-
 <div id="header" align="center">
 <h1>Hi there 👋</h1>
 </div>
@@ -12,7 +6,7 @@ background-color: blue;
   <a href="#">Linkedin</a>
   <a href="https://t.me/Akamorii">Telegram</a>
 </div>
-
+\n
 
 - i'm beginner fullstack developer
 - my [telegram](https://t.me/Akamorii)
