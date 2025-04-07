@@ -36,8 +36,8 @@
 
 
 
-<div align="center">
-  <img src="https://i.pinimg.com/736x/2e/89/35/2e893541123b75b27bc15b4ee0b25653.jpg" style="border-radius:10px"/>
+<div align="center" style="border-radius:10">
+  <img src="https://i.pinimg.com/736x/2e/89/35/2e893541123b75b27bc15b4ee0b25653.jpg" style="border-radius:10"/>
   <img src="https://i.pinimg.com/originals/8b/86/5d/8b865ddcb9bb441b73db346574214f49.gif" style="border-radius:10px" width="500" alt="Cool GIF">
 </div>
 
