@@ -1,6 +1,6 @@
 <styel>
 a {
-background-color: blue
+background-color: blue;
   }
 </styel>
 
