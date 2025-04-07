@@ -21,11 +21,11 @@ I do my own projects, and I'm also trying to develop a little in computer scienc
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin" alt="LinkedIn" height="28"/>
   </a>
 </div>
-<br></br> 
+<br></br>
 &nbsp;
 
 
-
+<br></br> 
 <div align="center">
   <h2>languages and tools<h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
@@ -38,7 +38,7 @@ I do my own projects, and I'm also trying to develop a little in computer scienc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
 </div>
-    
+<br></br> 
 
 
 <div align="center">
