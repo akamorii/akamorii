@@ -1,9 +1,9 @@
-<div id="header" align="center">
+s<div id="header" align="center">
 <h1>Hi there 👋</h1>
 </div>
 
 # 🌟 About Me
-i'm begigner fullstack developer\n. 
+i'm begigner fullstack developer.<br></br> 
 I do my own projects, and I'm also trying to develop a little in computer science
 &nbsp;
 
