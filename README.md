@@ -40,6 +40,7 @@ I do my own projects, and I'm also trying to develop a little in computer scienc
 
 
 <div align="center">
+  <h2>statistics<h2>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akamorii&theme=tokyonight" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akamorii&theme=tokyonight" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akamorii&theme=tokyonight" />
@@ -48,9 +49,7 @@ I do my own projects, and I'm also trying to develop a little in computer scienc
 
 
   
-<div align="center">
-  <h2>statistics<h2>
-</div>
+
 <div style="margin:70px"></div>
 <div align="center" style="border-radius:20px">
   <img src="https://i.pinimg.com/736x/2e/89/35/2e893541123b75b27bc15b4ee0b25653.jpg" style="border-radius:20px"/>
