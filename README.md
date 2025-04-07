@@ -24,7 +24,9 @@ I do my own projects, and I'm also trying to develop a little in computer scienc
 
 
 
-## languages and tools
+<div align="center">
+  <h2>languages and tools<h2>
+</div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="fastapi" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" title="postgresql" width="40" height="40"/>&nbsp;
@@ -34,12 +36,15 @@ I do my own projects, and I'm also trying to develop a little in computer scienc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
-&nbsp;
+</div>&nbsp;
 <div align="center" style="margin:70px">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akamorii&theme=tokyonight" />
-</div>
 &nbsp;
 
+  
+<div align="center">
+  <h2>statistics<h2>
+</div>
 <div style="margin:70px"></div>
 <div align="center" style="border-radius:20px">
   <img src="https://i.pinimg.com/736x/2e/89/35/2e893541123b75b27bc15b4ee0b25653.jpg" style="border-radius:20px"/>
