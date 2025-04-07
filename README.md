@@ -15,10 +15,13 @@
   </a>
 </div>
 
+<div style="margin:70px"></div>
+
 
 - i'm beginner fullstack developer
 - my [telegram](https://t.me/Akamorii)
 
+<div style="margin:70px"></div>
 
 ## languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
@@ -31,29 +34,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
 
+<!-- <img src="https://i.pinimg.com/736x/2e/89/35/2e893541123b75b27bc15b4ee0b25653.jpg" style="border-radius:10px"/> -->
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/8b/86/5d/8b865ddcb9bb441b73db346574214f49.gif" style="border-radius:10px" width="500" alt="Cool GIF">
+</div>
 
-
-
-
-
-
-
-
-
-
-
-<!--
-**akamorii/akamorii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
