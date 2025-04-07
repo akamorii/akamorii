@@ -2,11 +2,19 @@
 <h1>Hi there 👋</h1>
 </div>
 
-<div id="socials" align="center">
+<!-- <div id="socials" align="center">
   <a href="#">Linkedin</a>
   <a href="https://t.me/Akamorii">Telegram</a>
+</div> -->
+<div align="center">
+  <a href="https://t.me/Akamorii" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%40Akamorii-blue?style=flat-square&logo=telegram" alt="Telegram" height="28"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin" alt="LinkedIn" height="28"/>
+  </a>
 </div>
-\n
+
 
 - i'm beginner fullstack developer
 - my [telegram](https://t.me/Akamorii)
