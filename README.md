@@ -12,6 +12,7 @@ I do my own projects, and I'm also trying to develop a little in computer scienc
   <a href="#">Linkedin</a>
   <a href="https://t.me/Akamorii">Telegram</a>
 </div> -->
+<br></br> 
 <div align="center">
   <a href="https://t.me/Akamorii" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%40Akamorii-blue?style=flat-square&logo=telegram" alt="Telegram" height="28"/>
@@ -20,6 +21,7 @@ I do my own projects, and I'm also trying to develop a little in computer scienc
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin" alt="LinkedIn" height="28"/>
   </a>
 </div>
+<br></br> 
 &nbsp;
 
 
