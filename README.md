@@ -35,9 +35,10 @@ I do my own projects, and I'm also trying to develop a little in computer scienc
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
 
-<div style="margin:70px"></div>
-
+<div align="center" style="margin:70px">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akamorii&theme=tokyonight)
+</div>
+
 
 <div style="margin:70px"></div>
 <div align="center" style="border-radius:20px">
