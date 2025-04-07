@@ -2,6 +2,12 @@
 <h1>Hi there 👋</h1>
 </div>
 
+# 🌠 About Me
+i'm begigner fullstack developer. 
+I do my own projects, and I'm also trying to develop a little in computer science
+
+<div style="margin:70px"></div>
+
 <!-- <div id="socials" align="center">
   <a href="#">Linkedin</a>
   <a href="https://t.me/Akamorii">Telegram</a>
@@ -18,11 +24,6 @@
 <div style="margin:70px"></div>
 
 
-- i'm beginner fullstack developer
-- my [telegram](https://t.me/Akamorii)
-
-<div style="margin:70px"></div>
-
 ## languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="fastapi" width="40" height="40"/>&nbsp;
@@ -34,8 +35,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
 
+<div style="margin:70px"></div>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akamorii&theme=tokyonight)
 
+<div style="margin:70px"></div>
 <div align="center" style="border-radius:20px">
   <img src="https://i.pinimg.com/736x/2e/89/35/2e893541123b75b27bc15b4ee0b25653.jpg" style="border-radius:20px"/>
   <img src="https://i.pinimg.com/originals/8b/86/5d/8b865ddcb9bb441b73db346574214f49.gif" style="border-radius:10px" width="500" alt="Cool GIF">
