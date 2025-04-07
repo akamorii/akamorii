@@ -34,7 +34,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="react" width="40" height="40"/>&nbsp;
 
-<img src="https://i.pinimg.com/736x/2e/89/35/2e893541123b75b27bc15b4ee0b25653.jpg" style="border-radius:10px"/>
+<img src="https://i.pinimg.com/736x/2e/89/35/2e893541123b75b27bc15b4ee0b25653.jpg" style="border-radius:10px" align="center"/>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/8b/86/5d/8b865ddcb9bb441b73db346574214f49.gif" style="border-radius:10px" width="500" alt="Cool GIF">
