@@ -2,7 +2,7 @@
 <h1>Hi there 👋</h1>
 </div>
 
-# About Me
+# 🌟 About Me
 i'm begigner fullstack developer. 
 I do my own projects, and I'm also trying to develop a little in computer science
 &nbsp;
