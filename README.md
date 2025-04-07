@@ -52,7 +52,7 @@ I do my own projects, and I'm also trying to develop a little in computer scienc
 
 <div style="margin:70px"></div>
 <div align="center" style="border-radius:20px">
-  <img src="https://i.pinimg.com/736x/d9/b8/76/d9b8760a9f35660a15c73664d2e6316f.jpg" width="500" style="border-radius:20px"/>
+  <img src="https://i.pinimg.com/736x/3e/9e/eb/3e9eeb4b949bf10f7df922d78360739a.jpg" width="500" style="border-radius:20px"/>
   <img src="https://i.pinimg.com/originals/8b/86/5d/8b865ddcb9bb441b73db346574214f49.gif" style="border-radius:10px" width="500" alt="Cool GIF">
 </div>
 
