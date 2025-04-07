@@ -3,7 +3,7 @@
 </div>
 
 # 🌟 About Me
-i'm begigner fullstack developer. 
+i'm begigner fullstack developer\n. 
 I do my own projects, and I'm also trying to develop a little in computer science
 &nbsp;
 
