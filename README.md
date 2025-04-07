@@ -39,8 +39,12 @@ I do my own projects, and I'm also trying to develop a little in computer scienc
     
 
 
-
+<div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akamorii&theme=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akamorii&theme=tokyonight" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akamorii&theme=tokyonight" />
+
+</div>
 
 
   
