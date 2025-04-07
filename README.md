@@ -5,6 +5,18 @@
 - i'm beginner fullstack developer
 - my [telegram](https://t.me/Akamorii)
 
+
+## languages and tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="fastapi" width="40" height="40"/>&nbsp;
+
+
+
+
+
+
+
+
+
 <!--
 **akamorii/akamorii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
