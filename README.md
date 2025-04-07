@@ -21,7 +21,7 @@ I do my own projects, and I'm also trying to develop a little in computer scienc
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin" alt="LinkedIn" height="28"/>
   </a>
 </div>
-<br></br>
+
 &nbsp;
 
 
