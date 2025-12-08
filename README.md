@@ -3,7 +3,7 @@
 </div>
 
 # 🌟 About Me
-i'm beginner fullstack developer.<br></br> 
+i'm beginner DevOps developer.<br></br> 
 I do my own projects, and I'm also trying to develop a little in computer science
 &nbsp;
 
