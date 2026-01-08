@@ -3,8 +3,7 @@
 </div>
 
 # 🌟 About Me
-i'm beginner DevOps.<br></br> 
-I do my own projects, and I'm also trying to develop a little in computer science
+i'm python backend developer.<br></br> 
 &nbsp;
 
 
