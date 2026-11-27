@@ -7,10 +7,10 @@ i'm python backend developer.<br></br>
 &nbsp;
 
 
-<!-- <div id="socials" align="center">
-  <a href="#">Linkedin</a>
-  <a href="https://t.me/Akamorii">Telegram</a>
-</div> -->
+<div id="socials" align="center">
+  <a href="https://www.linkedin.com/in/artem-priyatelev-01364b452/">Linkedin</a>
+  <a href="https://t.me/Akamoriii">Telegram</a>
+</div>
 <br></br> 
 <div align="center">
   <a href="https://t.me/Akamorii" target="_blank">
