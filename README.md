@@ -7,16 +7,16 @@ i'm python backend developer.<br></br>
 &nbsp;
 
 
-<div id="socials" align="center">
+<!-- <div id="socials" align="center">
   <a href="https://www.linkedin.com/in/artem-priyatelev-01364b452/">Linkedin</a>
   <a href="https://t.me/Akamoriii">Telegram</a>
-</div>
+</div> -->
 <br></br> 
 <div align="center">
-  <a href="https://t.me/Akamorii" target="_blank">
+  <a href="https://t.me/Akamoriii" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%40Akamorii-blue?style=flat-square&logo=telegram" alt="Telegram" height="28"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/artem-priyatelev-01364b452/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat-square&logo=linkedin" alt="LinkedIn" height="28"/>
   </a>
 </div>
